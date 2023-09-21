@@ -3,6 +3,7 @@ Pasos
 Instalar eslint
 
 - npm i eslint -D
+- npx eslint --init
 
 Crear .eslintrc.js y .eslintignore
 
@@ -14,4 +15,6 @@ Crear .prettierrc y .prettierignore
 
 Instalar eslint-config-prettier
 
-Ver los archivos eslint prettier y package.json de como se configura cada dependencia
+- npm i eslint-config-prettier -D
+
+Ver los archivos eslint, prettier y package.json de como se configura cada dependencia
